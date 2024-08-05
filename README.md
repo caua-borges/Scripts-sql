@@ -7,6 +7,6 @@
     <h2>Como usar</h2>
     <ol>
         <li>Clone este repositório para a sua máquina local:</li>
-        <pre><code>git clone https://github.com/seu-usuario/scripts-sql.git</code></pre>
+        <pre><code>git clone https://github.com/caua-borges/scripts-sql.git</code></pre>
         <li>Execute os scripts no seu ambiente de banco de dados (por exemplo, Oracle, SQL Server, MySQL, etc.).</li>
     </ol>
