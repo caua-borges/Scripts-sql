@@ -1,34 +1,3 @@
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-        ol {
-            list-style-type: decimal;
-            margin-left: 20px;
-        }
-        pre {
-            background-color: #f5f5f5;
-            padding: 10px;
-            border-radius: 4px;
-        }
-        code {
-            font-family: Consolas, monospace;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
     <h1>Scripts SQL</h1>
